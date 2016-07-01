@@ -1,0 +1,69 @@
+nav {
+  box-shadow: 0 0 7px 1px #777;
+}
+
+i {
+  color: #173853;
+  margin: 10px;
+}
+
+.navbar {
+  background-color: #173853;
+  border: 0;
+  position: fixed;
+}
+
+.navbar-brand a:visited, a:link {
+  color: grey;
+  text-decoration: none;
+}
+
+.navbar-brand a:hover {
+  color: white;
+  text-decoration: none;
+}
+.project-box {
+  margin-bottom:21px;
+}
+
+.section {
+  font-size: 19px;
+  padding-bottom: 35px;
+}
+
+.section-name {
+  font-family: 'Handlee', cursive;
+  font-size: 42px;
+  text-shadow: 1px 1px 5px #999;
+  margin: 10px 0;
+  color: #B981BC;
+}
+
+#nav-button {
+  background: grey;
+}
+#nav-button:hover {
+  background: #B981BC;;
+}
+
+#inline li {
+  display: inline-block;
+}
+
+#outer-container {
+  background-image: url("http://res.cloudinary.com/beekey/image/upload/v1465343389/backgroundv3_rplqlg.jpg");
+  background-repeat: repeat-y;
+  background-size: 100%;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#main-container {
+  padding-top: 50px;
+  padding-bottom: 7px;
+  background-color: #eef;
+  box-shadow: 0 0 27px 2px #ccc;
+}
+
+#about-picture {
+  margin: 0 10px 3px 0;
+}
